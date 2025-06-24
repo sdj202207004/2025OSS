@@ -32,29 +32,29 @@
 ## 중간과정 수정 스크린샷
 
 ### main 브렌치 수정 - 심동준
-![main 브렌치 수정](202207004_심동준.jpeg)<p>
+![main 브렌치 수정](images/202207004_심동준.jpeg)<p>
 ---
 
 ### dev/a 브렌치 수정 - 강민수
-![add.cpp 수정](add_cpp.png)
-![sub.cpp 수정](sub_cpp.png)
+![add.cpp 수정](images/add_cpp.png)
+![sub.cpp 수정](images/sub_cpp.png)
 
 ---
 
 ### dev/b 브렌치 수정 - 조건희
-![mod.cpp 수정 ](<mod.cpp 수정.jpg>)
-![mul.cpp 수정](<mul.cpp 수정.jpg>)
+![mod.cpp 수정 ](<images/mod.cpp 수정.jpg>)
+![mul.cpp 수정](<images/mul.cpp 수정.jpg>)
 
 ---
 ### dev/c 브렌치 수정 - 안재형
-![dive.cpp 수정](<dive.cpp 수정.jpg>)<p>
+![dive.cpp 수정](<images/dive.cpp 수정.jpg>)<p>
 ---
 
 
 ### 2.병합 중 문제 발생
 dev/a 병합 중 문제 발생
 
-![dev/a 병합 문제 발생](<스크린샷 2025-06-24 155038.png>)
+![dev/a 병합 문제 발생](<images/스크린샷 2025-06-24 155038.png>)
 
 <p>
 
@@ -62,14 +62,14 @@ dev/a 병합 중 문제 발생
 
 dev/c 병합 중 문제 발생
 
-![dev/c 병합 문제 발생](<스크린샷 2025-06-24 155327.png>)
+![dev/c 병합 문제 발생](<images/스크린샷 2025-06-24 155327.png>)
 
 
 
 ### 3. 발생한 문제 해결: 코드 수정
 
-![코드 수정](<코드 수정 1.png>)
-![코드 수정](<코드수정 2.png>)
+![코드 수정](<images/코드 수정 1.png>)
+![코드 수정](<images/코드수정 2.png>)
 
 
 ---
@@ -78,12 +78,12 @@ dev/c 병합 중 문제 발생
 ## Git Flow : 결과 화면
 
 
-![로그사진](<로그 사진.png>)
+![로그사진](<images/로그 사진.png>)
 ---
 
 ## 실행 결과 화면
 
-![실행화면](<실행 화면.png>)
+![실행화면](<images/실행 화면.png>)
 
 - 두 수를 입력받아 사칙연산 및 모듈로 연산 수행
 - 충돌 해결 과정을 통해 협업과정에서의 Git 이해도 상승
